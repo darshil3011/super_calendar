@@ -7,4 +7,4 @@
 
 1. Generate credentials.json from Google Console. Follow the steps [here](https://developers.google.com/calendar/api/quickstart/python)
 2. Run pip install -r requirements.txt in your python environment enabled terminal
-3. run "streamlit run streamlit_app.py"
+3. run "streamlit run src/streamlit_app.py"
